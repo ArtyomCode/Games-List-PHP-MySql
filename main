@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body>
+<header>
+</header>
+<div class="main">
+<div class="navigation">
+<ul>
+  <li><a href="#offers">What we offer</a></li>
+  <li><a href="#about">About us</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+</div>
+</div>
+<div class="main-second">
+<div class="navigation-second">
+<ul>
+  <li><a href="#residence">Residence</a></li>
+  <li><a href="#company">Open the company</a></li>
+  <li><a href="#finance">Finance help</a></li>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#help">Help to your business</a></li>
+  <li><a href="#about">About us</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+</div></div>
+</body>
+</html>
